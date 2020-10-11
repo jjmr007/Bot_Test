@@ -1,0 +1,28 @@
+{
+  "name": "bot_test",
+  "version": "0.1.2",
+  "description": "package to send any message from a telegram bot to your chat_id",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjmr007/Bot_Test.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "message"
+  ],
+  "author": "Julio Moros",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jjmr007/Bot_Test/issues"
+  },
+  "homepage": "https://github.com/jjmr007/Bot_Test#readme"
+}
